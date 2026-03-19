@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\madat\\desktop\\c.apa202\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\madat\\desktop\\c.apa202\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\model\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\model\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\madat\\desktop\\c.apa202\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\model\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\madat\\desktop\\c.apa202\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\model\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\model\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|c:\\users\\madat\\desktop\\c.apa202\\05-abstractclasspolymorphismforeach\\05-abstractclasspolymorphismforeach\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DD463E-2452-9662-D02E-7A79633D94C3}|05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach.csproj|solutionrelative:05-abstractclasspolymorphismforeach\\model\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 168,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proqram.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "RelativeDocumentMoniker": "..\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "RelativeToolTip": "..\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Proqram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T06:28:22.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Truck.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Model\\Truck.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Truck.cs*",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Model\\Truck.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:53:01.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Model\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Motorcycle.cs*",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Model\\Motorcycle.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:31:53.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Car.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Model\\Car.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Car.cs*",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Model\\Car.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:09:27.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "RelativeDocumentMoniker": "..\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "RelativeToolTip": "..\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:33:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Vehicle.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Model\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Model\\Vehicle.cs*",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Model\\Vehicle.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:28:28.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "RelativeDocumentMoniker": "..\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "RelativeToolTip": "..\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:25:53.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeDocumentMoniker": "05-AbstractClassPolymorphismForEach\\Program.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\05-AbstractClassPolymorphismForEach\\05-AbstractClassPolymorphismForEach\\Program.cs*",
+              "RelativeToolTip": "05-AbstractClassPolymorphismForEach\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:18:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
