@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        table {
+            width: 90%; 
+            margin-bottom: 50px; 
+            margin-left: auto;
+            margin-right: auto;
+            border-collapse: collapse; 
+            background-color: white;
+        }
+
+        th, td {
+            border: 1px solid #333;
+            padding: 15px; 
+            text-align: center;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+
+        .bold-text {
+            font-weight: bold;
+        }
+
+        small {
+            color: #666;
+            display: block;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Country</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Harry Depp</td>
+                <td>28</td>
+                <td>Britain</td>
+            </tr>
+            <tr>
+                <td>John Smith</td>
+                <td>35</td>
+                <td>USA</td>
+            </tr>
+            <tr>
+                <td>Ram Krishna</td>
+                <td>19</td>
+                <td>Nepal</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table style="width: 50%;">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Butter</td>
+                <td>3 Kilogram</td>
+            </tr>
+            <tr>
+                <td>Milk</td>
+                <td>3 Liters</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Flavors</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="3" class="bold-text">Milk</td>
+                <td>Almond</td>
+            </tr>
+            <tr>
+                <td>Mango</td>
+            </tr>
+            <tr>
+                <td>Chocolate</td>
+            </tr>
+            <tr>
+                <td colspan="2" style="background-color: #fafafa;"><i>These are exclusive flavors</i></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <tbody>
+            <tr>
+                <td rowspan="5" class="bold-text">section</td>
+                <td rowspan="3">subsection 1</td>
+                <td>text1</td>
+            </tr>
+            <tr>
+                <td>text2</td>
+            </tr>
+            <tr>
+                <td>text3</td>
+            </tr>
+            <tr>
+                <td>subsection 2</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>subsection 3</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table style="width: 30%;">
+        <tr>
+            <td>1</td>
+            <td rowspan="2" valign="middle">2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+        </tr>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Subject</th>
+                <th>Marks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="3">1</td>
+                <td rowspan="3" class="bold-text">David</td>
+                <td>Maths</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Physics</td>
+                <td>90</td>
+            </tr>
+            <tr>
+                <td>Computers</td>
+                <td>70</td>
+            </tr>
+            <tr>
+                <td rowspan="3">2</td>
+                <td rowspan="3" class="bold-text">Alex</td>
+                <td>Maths</td>
+                <td>80</td>
+            </tr>
+            <tr>
+                <td>Physics</td>
+                <td>70</td>
+            </tr>
+            <tr>
+                <td>Computers</td>
+                <td>90</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <thead>
+            <tr>
+                <th colspan="3">Product</th>
+            </tr>
+            <tr>
+                <th>No</th>
+                <th>P. Name</th>
+                <th>P. Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Pen</td>
+                <td rowspan="3" class="bold-text">50</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Book</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Dust</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <table>
+        <tr>
+            <td rowspan="2" class="bold-text">A</td>
+            <td>B</td>
+            <td rowspan="3" class="bold-text">D</td>
+            <td colspan="2">E</td>
+            <td>F</td>
+        </tr>
+        <tr>
+            <td>C</td>
+            <td rowspan="2">G</td>
+            <td rowspan="2">H</td>
+            <td rowspan="2">I</td>
+        </tr>
+        <tr>
+            <td colspan="2">J</td>
+        </tr>
+        <tr>
+            <td colspan="3">K</td>
+            <td>L</td>
+            <td colspan="2">M</td>
+        </tr>
+    </table>
+
+    <table style="width: 100%;">
+        <thead>
+            <tr>
+                <th>Day/Period</th>
+                <th>I<br><small>9:30-10:20</small></th>
+                <th>II<br><small>10:20-11:10</small></th>
+                <th>III<br><small>11:10-12:00</small></th>
+                <th>12:00-12:40</th>
+                <th>IV<br><small>12:40-1:30</small></th>
+                <th>V<br><small>1:30-2:20</small></th>
+                <th>VI<br><small>2:20-3:10</small></th>
+                <th>VII<br><small>3:10-4:00</small></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="bold-text">Monday</td>
+                <td>Eng</td>
+                <td>Mat</td>
+                <td>Che</td>
+                <td rowspan="6" class="bold-text">L<br>U<br>N<br>C<br>H</td>
+                <td colspan="3">LAB</td>
+                <td>Phy</td>
+            </tr>
+            <tr>
+                <td class="bold-text">Tuesday</td>
+                <td colspan="3">LAB</td>
+                <td>Eng</td>
+                <td>Che</td>
+                <td>Mat</td>
+                <td>SPORTS</td>
+            </tr>
+            <tr>
+                <td class="bold-text">Wednesday</td>
+                <td>Mat</td>
+                <td>phy</td>
+                <td>Eng</td>
+                <td>Che</td>
+                <td colspan="3">LIBRARY</td>
+            </tr>
+            <tr>
+                <td class="bold-text">Thursday</td>
+                <td>Phy</td>
+                <td>Eng</td>
+                <td>Che</td>
+                <td colspan="3">LAB</td>
+                <td>Mat</td>
+            </tr>
+            <tr>
+                <td class="bold-text">Friday</td>
+                <td colspan="3">LAB</td>
+                <td>Mat</td>
+                <td>Che</td>
+                <td>Eng</td>
+                <td>Phy</td>
+            </tr>
+            <tr>
+                <td class="bold-text">Saturday</td>
+                <td>Eng</td>
+                <td>Che</td>
+                <td>Mat</td>
+                <td colspan="3">SEMINAR</td>
+                <td>SPORTS</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>

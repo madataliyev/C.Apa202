@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\madat\\desktop\\c.apa202\\10-generictypescollections\\10-generictypescollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\madat\\desktop\\c.apa202\\10-generictypescollections\\10-generictypescollections\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\madat\\desktop\\c.apa202\\10-generictypescollections\\10-generictypescollections\\models\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\models\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\madat\\desktop\\c.apa202\\10-generictypescollections\\10-generictypescollections\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|c:\\users\\madat\\desktop\\c.apa202\\10-generictypescollections\\10-generictypescollections\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCCDC7D-6917-2DE1-FBFA-A7100A6977B4}|10-GenericTypesCollections\\10-GenericTypesCollections.csproj|solutionrelative:10-generictypescollections\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 168,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Library.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Models\\Library.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:13:29.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\BookManager.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Models\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\BookManager.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Models\\BookManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwGAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:13:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Member.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Models\\Member.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:10:30.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Models\\Book.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Models\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T07:52:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Program.cs",
+              "RelativeDocumentMoniker": "10-GenericTypesCollections\\Program.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\10-GenericTypesCollections\\10-GenericTypesCollections\\Program.cs",
+              "RelativeToolTip": "10-GenericTypesCollections\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwHkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T07:51:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
