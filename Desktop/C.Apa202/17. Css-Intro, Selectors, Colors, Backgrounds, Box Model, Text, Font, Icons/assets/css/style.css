@@ -1,0 +1,95 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+.bg-gradient {
+    height: 100vh;
+    background: linear-gradient(135deg, #5de0e6, #a126f1); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-card {
+    background: white;
+    padding: 40px 30px;
+    width: 350px;
+    border-radius: 5px;
+    position: relative;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.close-btn {
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+.input-group {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: #333;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+}
+
+.forgot-pass {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+    color: #56b2e1;
+    text-decoration: none;
+    margin-bottom: 25px;
+}
+
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 3px;
+    background: linear-gradient(to right, #5de0e6, #a126f1);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.login-btn:hover {
+    opacity: 0.9;
+}
+
+.signup-text {
+    font-size: 14px;
+    color: #666;
+}
+
+.signup-text a {
+    color: #56b2e1;
+    text-decoration: none;
+}

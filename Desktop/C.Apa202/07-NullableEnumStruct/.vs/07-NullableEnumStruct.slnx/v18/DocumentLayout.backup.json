@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\madat\\desktop\\c.apa202\\07-nullableenumstruct\\07-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\madat\\desktop\\c.apa202\\07-nullableenumstruct\\07-nullableenumstruct\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\madat\\desktop\\c.apa202\\07-nullableenumstruct\\07-nullableenumstruct\\models\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\models\\drinkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\madat\\desktop\\c.apa202\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\drinksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\drinksize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\madat\\desktop\\c.apa202\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\drinktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|c:\\users\\madat\\desktop\\c.apa202\\07-nullableenumstruct\\07-nullableenumstruct\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B6651E-DC1E-42E0-8E33-75F6C2CBF9E3}|07-NullableEnumStruct\\07-NullableEnumStruct.csproj|solutionrelative:07-nullableenumstruct\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 290,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Order.cs",
+              "RelativeDocumentMoniker": "07-NullableEnumStruct\\Order.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Order.cs*",
+              "RelativeToolTip": "07-NullableEnumStruct\\Order.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:31:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrinkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Models\\DrinkOrder.cs",
+              "RelativeDocumentMoniker": "07-NullableEnumStruct\\Models\\DrinkOrder.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Models\\DrinkOrder.cs",
+              "RelativeToolTip": "07-NullableEnumStruct\\Models\\DrinkOrder.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:39:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "07-NullableEnumStruct\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:23:58.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrinkSize.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkSize.cs",
+              "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\DrinkSize.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkSize.cs",
+              "RelativeToolTip": "07-NullableEnumStruct\\Enums\\DrinkSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:22:49.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrinkType.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkType.cs",
+              "RelativeDocumentMoniker": "07-NullableEnumStruct\\Enums\\DrinkType.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Enums\\DrinkType.cs",
+              "RelativeToolTip": "07-NullableEnumStruct\\Enums\\DrinkType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:20:39.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Program.cs",
+              "RelativeDocumentMoniker": "07-NullableEnumStruct\\Program.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\07-NullableEnumStruct\\07-NullableEnumStruct\\Program.cs",
+              "RelativeToolTip": "07-NullableEnumStruct\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:16:00.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.exe
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.deps.json
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.runtimeconfig.json
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.dll
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\bin\Debug\net10.0\05-AbstractClassPolymorphismForEach.pdb
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.AssemblyInfoInputs.cache
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.AssemblyInfo.cs
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.csproj.CoreCompileInputs.cache
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.sourcelink.json
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.dll
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\refint\05-AbstractClassPolymorphismForEach.dll
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.pdb
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\05-AbstractClassPolymorphismForEach.genruntimeconfig.cache
+C:\Users\Madat\Desktop\C.Apa202\05-AbstractClassPolymorphismForEach\05-AbstractClassPolymorphismForEach\obj\Debug\net10.0\ref\05-AbstractClassPolymorphismForEach.dll

@@ -1,0 +1,119 @@
+.toolbar-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0;
+    font-size: 14px;
+    color: #7f807f;
+}
+
+.trigger {
+    color: #000;
+    cursor: pointer;
+}
+
+.items-holder {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.product-box {
+    width: calc(33.33% - 15px); 
+    margin-bottom: 20px;
+}
+
+.thumb {
+    position: relative;
+    background-color: #f6f6f6;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.thumb img {
+    max-width: 80%;
+    height: auto;
+}
+
+.label-sale {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background-color: black;
+    color: white;
+    padding: 4px 10px;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.meta {
+    padding: 15px 0 35px;
+}
+
+.meta .name {
+    font-size: 13px;
+    font-weight: normal;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+.stars {
+    font-size: 12px;
+    margin-bottom: 5px;
+    color: rgb(125, 125, 125);
+}
+
+.stars .active {
+    color: rgb(255, 212, 59); 
+}
+
+.cost {
+    font-size: 15px;
+    font-weight: 600;
+    color: #222;
+}
+
+.nav-pager {
+    margin: 30px 0 60px;
+}
+
+.pager-ui {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+}
+
+.pager-node a {
+    color: #888;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.pager-node.current-page a {
+    color: black;
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.empty-dots {
+    color: #888;
+}
+
+@media (max-width: 992px) {
+    .product-box { width: calc(50% - 10px); }
+}
+@media (max-width: 600px) {
+    .product-box { width: 100%; }
+}
