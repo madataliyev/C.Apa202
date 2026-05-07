@@ -1,0 +1,56 @@
+﻿@using _26_DynamicPropertiesViewModel.Models
+@using _26_DynamicPropertiesViewModel.ViewModels
+@model HomeVm
+<h1>Home Page</h1>
+
+
+@* <h2>@TempData["Name"]</h2> *@
+
+
+
+
+
+@* @{
+    var Students = ViewBag.Students;
+} *@
+@* 
+@{
+    var data = ViewData["Students"];
+} *@
+
+
+@{
+    var data = Model;
+}
+
+
+<ul>
+
+@foreach (@* var *@  Student item in@*  Students  *@   @* ViewBag.Students *@ ViewData["Students"] as List<Student>)  
+    {
+       <li> @item.Name , @item.Surname, @item.Id</li> 
+    }
+
+</ul>
+
+
+<table border="1">
+
+@foreach (Teacher teacher in Model.Teachers)
+    {
+        <tr>
+            <td>@teacher.Id</td>
+            <td>@teacher.Name</td>
+            <td>@teacher.Salary</td>
+
+
+
+        </tr>
+    }
+
+
+
+
+
+
+</table>
