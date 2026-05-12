@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\shop\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\migrations\\20260510144019_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\migrations\\20260510144019_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|c:\\users\\madat\\desktop\\c.apa202\\fronttoback\\fronttoback\\migrations\\20260510144248_createslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EBE67-173C-5C41-0395-ED0D9931B8B3}|FrontToBack\\FrontToBack.csproj|solutionrelative:fronttoback\\migrations\\20260510144248_createslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "FrontToBack\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T19:35:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FrontToBack\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T13:15:06.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAOMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T08:16:03.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANwAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T13:19:04.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T08:10:26.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Shop\\Details.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Shop\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Shop\\Details.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Shop\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T20:02:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260510144019_CreateDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Migrations\\20260510144019_CreateDataBase.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Migrations\\20260510144019_CreateDataBase.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Migrations\\20260510144019_CreateDataBase.cs",
+              "RelativeToolTip": "FrontToBack\\Migrations\\20260510144019_CreateDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:40:19.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260510144248_CreateSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Migrations\\20260510144248_CreateSliderTable.cs",
+              "RelativeDocumentMoniker": "FrontToBack\\Migrations\\20260510144248_CreateSliderTable.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Migrations\\20260510144248_CreateSliderTable.cs",
+              "RelativeToolTip": "FrontToBack\\Migrations\\20260510144248_CreateSliderTable.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:42:48.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\C.Apa202\\FrontToBack\\FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontToBack\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAGB3wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T13:21:19.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
