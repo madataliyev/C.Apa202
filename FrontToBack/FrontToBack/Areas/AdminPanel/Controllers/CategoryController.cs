@@ -12,21 +12,60 @@ namespace FrontToBack.Areas.AdminPanel.Controllers
 
         public CategoryController(AppDbContext context)
         {
-            _context=context;
+            _context = context;
         }
-        public  async Task<IActionResult> Index()
+        public async Task<IActionResult> Index()
         {
             List<Category> categories = await _context.Categories
-                .Include(c=>c.Products.Where(p=>p.IsDeleted==false))
+                .Include(c => c.Products.Where(p => p.IsDeleted == false))
                 .Where(c => !c.IsDeleted)
                 .ToListAsync();
 
             return View(categories);
         }
 
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
+        }
+
+
+        [HttpPost]
+        public async Task<IActionResult> Create(Category category)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View();
+            }
+
+            bool existCategory = await _context.Categories.AnyAsync(c => c.Name.Trim() == category.Name.Trim());
+
+            if (existCategory)
+            {
+                ModelState.AddModelError("Name", "category already exist!");
+                return View();
+            }
+            await _context.AddAsync(category);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
+        }
+
+        public async Task<IActionResult> Detail(int? id)
+        {
+            if (id is null || id < 1) return BadRequest();
+
+            Category? category = await _context.Categories
+                .Include(c=>c.Products)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+
+
+
+            if (category is null) return NotFound();
+
+            return View(category);
+           
         }
     }
 }
